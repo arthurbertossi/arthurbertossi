@@ -31,16 +31,18 @@
 
 <a href="https://code.visualstudio.com/" title="VSCode"><img src="icons/vscode.svg"> /></a>
 <a href="https://www.jetbrains.com/pt-br/phpstorm/" title="PhpStorm"><img src="icons/phpstorm.svg"> /></a>
-<a href="" title="GiT"><img src="icons/git.svg"> /></a>
-<a href="" title="GIMP"><img src="icons/gimp.svg"> /></a>
-<a href="" title="Composer"><img src="icons/composer.svg"> /></a>
-<a href="" title="Docker"><img src="icons/docker.svg"> /></a>
+<a href="https://git-scm.com/" title="GiT"><img src="icons/git.svg"> /></a>
+<a href="https://www.gimp.org/" title="GIMP"><img src="icons/gimp.svg"> /></a>
+<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.svg"> /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.svg"> /></a>
+
  **Currently working with:**
-<a href="" title="HTML5"><img src="icons/html5.svg"> /></a>
-<a href="" title="CSS3"><img src="icons/css3.svg"> /></a>
-<a href="" title="JavaScript"><img src="icons/javascript.svg"> /></a>
-<a href="" title="PHP"><img src="icons/php.svg"> /></a>
-<a href="" title="Node.js"><img src="icons/nodejs.svg> /></a>
-<a href="" title="MySQL"><img src="icons/mysql.svg"> /></a>
-<a href="" title="Discord.js"><img src="icons/discordjs.svg">
-<a href="" title="Python"><img src="icons/python.svg"> /></a>
+
+<a href="https://www.w3.org/html/" title="HTML5"><img src="icons/html5.svg"> /></a>
+<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="icons/css3.svg"> /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript"><img src="icons/javascript.svg"> /></a>
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.svg"> /></a>
+<a href="https://nodejs.org/en" title="Node.js"><img src="icons/nodejs.svg"> /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.svg"> /></a>
+<a href="https://discord.js.org/" title="Discord.js"><img src="icons/discordjs.svg">
+<a href="https://www.python.org/" title="Python"><img src="icons/python.svg"> /></a>
