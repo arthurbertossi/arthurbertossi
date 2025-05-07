@@ -19,7 +19,7 @@
 </p>
 
 ---
-
+<!--
 ## 🧠 Most Used Languages
 
 - PHP: 51.62%
@@ -28,7 +28,7 @@
 - JavaScript: 5.90%
 - Python: 0.35%
 - Kotlin: 0.13%
-
+-->
 ---
 
 ## 💻 System
