@@ -61,4 +61,4 @@
 
 ---
 
-<p align="center">📫 Contact me at: <strong>arthur.bertossi [at] example.com</strong></p>
+<p align="center">📫 Contact me at: <strong>arthurbertossi@gmail.com</strong></p>
